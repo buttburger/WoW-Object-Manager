@@ -1,0 +1,6 @@
+﻿  Main.cpp
+Main.cpp(17): warning C4101: 'hWnd' : unreferenced local variable
+Main.cpp(48): warning C4101: 'hLib' : unreferenced local variable
+  Generating code
+  Finished generating code
+  dllinjector2.vcxproj -> C:\Users\User\Documents\Visual Studio 2012\Projects\dllinjector2\Release\dllinjector2.exe
